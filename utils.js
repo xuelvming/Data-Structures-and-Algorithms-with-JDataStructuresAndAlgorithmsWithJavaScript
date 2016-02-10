@@ -1,0 +1,1 @@
+exports.print = console.log;
